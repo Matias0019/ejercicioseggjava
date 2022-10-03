@@ -55,7 +55,7 @@ public class ejer11_5 {
                 case 5:
                     System.out.println("¿Está seguro que desea salir del programa (S/N)?");
                     salir = leer.next();
-                    //if (salir.equals("s"))
+                    
                     break;   
                     
                 default:
